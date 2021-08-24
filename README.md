@@ -3,7 +3,7 @@ It is the project as  me  learning  vue.
 
 ## Project setup
 ```
-npm install or  cnpm install
+npm install  or  cnpm install
 ```
 
 ### Compiles and hot-reloads for development
